@@ -20,6 +20,8 @@ public class GestaoMesas {
 		
 		mesas.add(m);
 		
+		System.out.println("Nº mesas: " + mesas.size() + "\n");
+		
 	}
 	
 }
