@@ -21,6 +21,7 @@ public class Main extends Application {
 			Fmesas janela_M = new Fmesas(320, 240, gMesas);
 			
 			primaryStage.setScene(janela_M);
+			primaryStage.setTitle("Add Mesa");
 			primaryStage.show();
 			
 		} catch(Exception e) {
